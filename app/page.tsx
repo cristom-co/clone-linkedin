@@ -1,4 +1,5 @@
 import Header from '@/app/components/Header'
+
 import Hero from '@/app/components/Hero'
 
 import CollaborativeArticles from '@/app/components/CollaborativeArticles'
@@ -13,10 +14,11 @@ import Games from '@/app/components/Games'
 
 import OpenToWork from '@/app/components/OpenToWork'
 
-// import ConnectAndLearn from './components/ConnectAndLearn'
-// import WhoIsLinkedIn from './components/WhoIsLinkedIn'
-// import JoinCTA from './components/JoinCTA'
+import ConnectAndLearn from '@/app/components/ConnectAndLearn'
 
+import WhoIsLinkedIn from '@/app/components/WhoIsLinkedIn'
+
+import JoinCTA from '@/app/components/JoinCTA'
 
 import Footer from '@/app/components/Footer'
 
@@ -27,14 +29,14 @@ export default function HomePage() {
       <main>
         <Hero />
         <CollaborativeArticles />
-        <JobSearch />
         <PostJob />
-        <SoftwareTools />
-        <Games />
+        <JobSearch />
         <OpenToWork />
-        {/* <ConnectAndLearn /> */}
-        {/* <WhoIsLinkedIn /> */}
-        {/* <JoinCTA /> */}
+        <SoftwareTools />
+        <ConnectAndLearn />
+        <Games />
+        <WhoIsLinkedIn />
+        <JoinCTA />
       </main>
       <Footer />
     </div>
