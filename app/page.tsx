@@ -1,6 +1,8 @@
 import Header from '@/app/components/Header'
 import Hero from '@/app/components/Hero'
-// import CollaborativeArticles from './components/CollaborativeArticles'
+
+import CollaborativeArticles from '@/app/components/CollaborativeArticles'
+
 // import JobSearch from './components/JobSearch'
 // import PostJob from './components/PostJob'
 // import SoftwareTools from './components/SoftwareTools'
@@ -9,6 +11,8 @@ import Hero from '@/app/components/Hero'
 // import ConnectAndLearn from './components/ConnectAndLearn'
 // import WhoIsLinkedIn from './components/WhoIsLinkedIn'
 // import JoinCTA from './components/JoinCTA'
+
+
 import Footer from '@/app/components/Footer'
 
 export default function HomePage() {
@@ -17,7 +21,7 @@ export default function HomePage() {
       <Header />
       <main>
         <Hero />
-        {/* <CollaborativeArticles /> */}
+        <CollaborativeArticles />
         {/* <JobSearch /> */}
         {/* <PostJob /> */}
         {/* <SoftwareTools /> */}
