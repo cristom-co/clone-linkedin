@@ -1,5 +1,3 @@
-import { Card, CardContent } from '@/app/components/ui/card'
-
 export default function WhoIsLinkedIn() {
   const useCases = [
     'Find a coworker or classmate',

@@ -6,7 +6,7 @@ export default function OpenToWork() {
           {/* Left Side - Text Content */}
           <div className="space-y-6">
             <h2 className="text-2xl lg:text-3xl font-light text-gray-900 leading-tight">
-              Let the right people know you're open to work
+              Let the right people know you&apos;re open to work
             </h2>
             <p className="text-gray-600">
               With the Open To Work feature, you can privately tell recruiters or publicly

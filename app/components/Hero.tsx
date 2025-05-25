@@ -19,7 +19,7 @@ export default function Hero() {
               </div>
 
               <p className="text-xs text-gray-600 leading-relaxed">
-                By clicking Continue to join or sign in, you agree to LinkedIn's{' '}
+                By clicking Continue to join or sign in, you agree to LinkedIn&apos;s{' '}
                 <button className="text-blue-600 hover:underline">User Agreement</button>,{' '}
                 <button className="text-blue-600 hover:underline">Privacy Policy</button>, and{' '}
                 <button className="text-blue-600 hover:underline">Cookie Policy</button>.

@@ -16,7 +16,7 @@ export default function CollaborativeArticles() {
               Explore collaborative articles
             </h2>
             <p className="text-gray-600 max-w-2xl">
-              We're unlocking community knowledge in a new way. Experts add insights directly
+              We&apos;re unlocking community knowledge in a new way. Experts add insights directly
               into each article, started with the help of AI.
             </p>
           </div>
