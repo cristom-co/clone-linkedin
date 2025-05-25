@@ -1,22 +1,22 @@
-# 🧩 Clon del Home de LinkedIn con Next.js
+# 🧩 LinkedIn Home Clone with Next.js
 
-Este proyecto es una réplica de la página de inicio de LinkedIn, creada con fines educativos y de práctica en desarrollo frontend utilizando **Next.js**.
+This project is a replica of LinkedIn's homepage, created for educational purposes and frontend development practice using **Next.js**.
 
-## 🖼️ Vista previa
+## 🖼️ Preview
 
-![Vista previa](./public/preview.png) <!-- Reemplaza con una imagen si la tienes -->
+![Preview](./public/preview.png) <!-- Replace with an image if you have one -->
 
-## 🚀 Tecnologías utilizadas
+## 🚀 Technologies Used
 
-- [Next.js](https://nextjs.org/) – Framework de React para renderizado del lado del servidor
+- [Next.js](https://nextjs.org/) – React framework for server-side rendering
 - [React](https://reactjs.org/)
 - TailwindCSS 
 - HTML5
-- Icons: Heroicons / FontAwesome / Otros
+- Icons: Heroicons / FontAwesome / Others
 
-## 📦 Instalación
+## 📦 Installation
 
-1. Clona este repositorio:
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/cristom-co/clone-linkedin.git
