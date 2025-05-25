@@ -7,9 +7,12 @@ import JobSearch from '@/app/components/JobSearch'
 
 import PostJob from '@/app/components/PostJob'
 
-// import SoftwareTools from './components/SoftwareTools'
-// import Games from './components/Games'
-// import OpenToWork from './components/OpenToWork'
+import SoftwareTools from '@/app/components/SoftwareTools'
+
+import Games from '@/app/components/Games'
+
+import OpenToWork from '@/app/components/OpenToWork'
+
 // import ConnectAndLearn from './components/ConnectAndLearn'
 // import WhoIsLinkedIn from './components/WhoIsLinkedIn'
 // import JoinCTA from './components/JoinCTA'
@@ -26,9 +29,9 @@ export default function HomePage() {
         <CollaborativeArticles />
         <JobSearch />
         <PostJob />
-        {/* <SoftwareTools /> */}
-        {/* <Games /> */}
-        {/* <OpenToWork /> */}
+        <SoftwareTools />
+        <Games />
+        <OpenToWork />
         {/* <ConnectAndLearn /> */}
         {/* <WhoIsLinkedIn /> */}
         {/* <JoinCTA /> */}
