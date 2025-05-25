@@ -5,7 +5,8 @@ import CollaborativeArticles from '@/app/components/CollaborativeArticles'
 
 import JobSearch from '@/app/components/JobSearch'
 
-// import PostJob from './components/PostJob'
+import PostJob from '@/app/components/PostJob'
+
 // import SoftwareTools from './components/SoftwareTools'
 // import Games from './components/Games'
 // import OpenToWork from './components/OpenToWork'
@@ -24,7 +25,7 @@ export default function HomePage() {
         <Hero />
         <CollaborativeArticles />
         <JobSearch />
-        {/* <PostJob /> */}
+        <PostJob />
         {/* <SoftwareTools /> */}
         {/* <Games /> */}
         {/* <OpenToWork /> */}
