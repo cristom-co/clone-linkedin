@@ -9,7 +9,7 @@ import Header from '@/app/components/Header'
 // import ConnectAndLearn from '@/components/ConnectAndLearn'
 // import WhoIsLinkedIn from '@/components/WhoIsLinkedIn'
 // import JoinCTA from '@/components/JoinCTA'
-// import Footer from '@/components/Footer'
+import Footer from '@/app/components/Footer'
 
 export default function HomePage() {
   return (
@@ -27,7 +27,7 @@ export default function HomePage() {
         <WhoIsLinkedIn />
         <JoinCTA /> */}
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   )
 }
