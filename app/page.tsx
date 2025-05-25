@@ -3,7 +3,8 @@ import Hero from '@/app/components/Hero'
 
 import CollaborativeArticles from '@/app/components/CollaborativeArticles'
 
-// import JobSearch from './components/JobSearch'
+import JobSearch from '@/app/components/JobSearch'
+
 // import PostJob from './components/PostJob'
 // import SoftwareTools from './components/SoftwareTools'
 // import Games from './components/Games'
@@ -22,7 +23,7 @@ export default function HomePage() {
       <main>
         <Hero />
         <CollaborativeArticles />
-        {/* <JobSearch /> */}
+        <JobSearch />
         {/* <PostJob /> */}
         {/* <SoftwareTools /> */}
         {/* <Games /> */}
