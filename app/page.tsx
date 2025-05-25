@@ -1,14 +1,14 @@
 import Header from '@/app/components/Header'
-// import Hero from '@/components/Hero'
-// import CollaborativeArticles from '@/components/CollaborativeArticles'
-// import JobSearch from '@/components/JobSearch'
-// import PostJob from '@/components/PostJob'
-// import SoftwareTools from '@/components/SoftwareTools'
-// import Games from '@/components/Games'
-// import OpenToWork from '@/components/OpenToWork'
-// import ConnectAndLearn from '@/components/ConnectAndLearn'
-// import WhoIsLinkedIn from '@/components/WhoIsLinkedIn'
-// import JoinCTA from '@/components/JoinCTA'
+import Hero from '@/app/components/Hero'
+// import CollaborativeArticles from './components/CollaborativeArticles'
+// import JobSearch from './components/JobSearch'
+// import PostJob from './components/PostJob'
+// import SoftwareTools from './components/SoftwareTools'
+// import Games from './components/Games'
+// import OpenToWork from './components/OpenToWork'
+// import ConnectAndLearn from './components/ConnectAndLearn'
+// import WhoIsLinkedIn from './components/WhoIsLinkedIn'
+// import JoinCTA from './components/JoinCTA'
 import Footer from '@/app/components/Footer'
 
 export default function HomePage() {
@@ -16,16 +16,16 @@ export default function HomePage() {
     <div className="min-h-screen bg-white">
       <Header />
       <main>
-        {/* <Hero />
-        <CollaborativeArticles />
-        <JobSearch />
-        <PostJob />
-        <SoftwareTools />
-        <Games />
-        <OpenToWork />
-        <ConnectAndLearn />
-        <WhoIsLinkedIn />
-        <JoinCTA /> */}
+        <Hero />
+        {/* <CollaborativeArticles /> */}
+        {/* <JobSearch /> */}
+        {/* <PostJob /> */}
+        {/* <SoftwareTools /> */}
+        {/* <Games /> */}
+        {/* <OpenToWork /> */}
+        {/* <ConnectAndLearn /> */}
+        {/* <WhoIsLinkedIn /> */}
+        {/* <JoinCTA /> */}
       </main>
       <Footer />
     </div>
